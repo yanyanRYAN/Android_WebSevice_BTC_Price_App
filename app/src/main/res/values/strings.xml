@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WebServiceProject</string>
+    <string name="main">Bitcoin Index</string>
+    <string name="current_price">Current Price</string>
+    <string name="hist_price">Price History</string>
+    <string name="desc">
+        This web application shows the current Bitcoin price and
+        the 30-day price history of Bitcoin.
+    </string>
+</resources>
